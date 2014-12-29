@@ -1,4 +1,4 @@
-## -*- docker-image-name: "image-name-here" -*-
+## -*- docker-image-name: "opamp/archlinux" -*-
 FROM base/archlinux:latest
 MAINTAINER opamp_sando <opampg@gmail.com>
 
