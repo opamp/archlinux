@@ -1,0 +1,11 @@
+--- pacman.conf.sav	2015-01-15 07:29:21.843086293 +0000
++++ pacman.conf	2015-01-15 07:29:49.550716908 +0000
+@@ -97,3 +97,8 @@
+ #[custom]
+ #SigLevel = Optional TrustAll
+ #Server = file:///home/custompkgs
++
++[archlinuxfr]
++SigLevel = Never
++Server = http://repo.archlinux.fr/$arch
++
