@@ -2,4 +2,4 @@ opamp/archlinux
 ---------------
 
 ### Overview  
-ワシがarchlinuxコンテナを作るときにベースにするイメージ  
+わしがarchlinuxコンテナを作るときにベースにするイメージ  
