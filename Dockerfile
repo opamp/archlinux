@@ -1,5 +1,5 @@
 ## -*- docker-image-name: "opamp/archlinux" -*-
-FROM base/archlinux:latest
+FROM archlinux/base
 MAINTAINER opamp_sando <opampg@gmail.com>
 
 RUN useradd -m -d /home/user -s /bin/bash -g users -G users,wheel user
